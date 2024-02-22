@@ -1,0 +1,7 @@
+torch==1.12.1
+torchvision==0.13.1
+torchaudio==0.12.1
+transformers==4.21.3
+ray==2.0.0
+mashumaro
+cb2game==1.0.0

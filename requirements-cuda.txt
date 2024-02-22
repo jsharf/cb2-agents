@@ -1,0 +1,10 @@
+--index-url=https://download.pytorch.org/whl/cu102 --extra-index-url=https://pypi.org/simple
+torch==1.12.1+cu102
+torchvision==0.13.1+cu102
+torchaudio==0.12.1
+transformers==4.21.3
+ray==2.0.0
+scipy==1.7.3
+seaborn==0.11.2
+mashumaro
+cb2game==1.0.0
